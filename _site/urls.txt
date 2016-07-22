@@ -29,6 +29,15 @@ mydocmydoc_protocols:
 
 
  
+mydocmydoc_genomeediting.md:
+  title: "Genome Editing"
+  url: /mydoc/mydoc_genomeediting.md/
+  link: <a href="/mydoc/mydoc_genomeediting.md/">Genome Editing</a>
+
+
+
+
+ 
 mydocmydoc_data01:
   title: "Data a"
   url: /mydoc/mydoc_data01/

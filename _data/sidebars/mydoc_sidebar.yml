@@ -39,6 +39,14 @@ entries:
     - title: Protocols
       url: /mydoc/mydoc_protocols/
       output: web, pdf
+  
+  - title: Outreach
+    output: web, pdf
+    folderitems:
+
+    - title: Genome Editing
+      url: /mydoc/mydoc_genomeediting.md/
+      output: web, pdf
 
   - title: Data
     audience: writers, designers
