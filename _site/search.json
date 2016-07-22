@@ -9,7 +9,7 @@
 "title": "Plant SECRETome Project Site",
 "tags": "",
 "keywords": "",
-"url": "//",
+"url": "/editagenome/",
 "summary": ""
 },
 
@@ -19,7 +19,7 @@
 "title": "Acknowledgement",
 "tags": "",
 "keywords": "",
-"url": "//mydoc/mydoc_acknowledgement/",
+"url": "/editagenome/mydoc/mydoc_acknowledgement/",
 "summary": ""
 },
 
@@ -29,7 +29,7 @@
 "title": "Contacts",
 "tags": "",
 "keywords": "",
-"url": "//mydoc/mydoc_contacts/",
+"url": "/editagenome/mydoc/mydoc_contacts/",
 "summary": ""
 },
 
@@ -39,7 +39,7 @@
 "title": "Data",
 "tags": "",
 "keywords": "",
-"url": "//mydoc/mydoc_data01/",
+"url": "/editagenome/mydoc/mydoc_data01/",
 "summary": ""
 },
 
@@ -49,7 +49,7 @@
 "title": "Data",
 "tags": "",
 "keywords": "",
-"url": "//mydoc/mydoc_data02/",
+"url": "/editagenome/mydoc/mydoc_data02/",
 "summary": ""
 },
 
@@ -59,7 +59,7 @@
 "title": "Protocols",
 "tags": "",
 "keywords": "",
-"url": "//mydoc/mydoc_protocols/",
+"url": "/editagenome/mydoc/mydoc_protocols/",
 "summary": ""
 },
 
@@ -69,7 +69,7 @@
 "title": "Publications",
 "tags": "",
 "keywords": "",
-"url": "//mydoc/mydoc_publications/",
+"url": "/editagenome/mydoc/mydoc_publications/",
 "summary": ""
 },
 
@@ -79,7 +79,7 @@
 "title": "Software",
 "tags": "",
 "keywords": "",
-"url": "//mydoc/mydoc_software01/",
+"url": "/editagenome/mydoc/mydoc_software01/",
 "summary": ""
 },
 
@@ -89,7 +89,7 @@
 "title": "Software",
 "tags": "",
 "keywords": "",
-"url": "//mydoc/mydoc_software02/",
+"url": "/editagenome/mydoc/mydoc_software02/",
 "summary": ""
 },
 
@@ -99,7 +99,7 @@
 "title": "News",
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
-"url": "//news/",
+"url": "/editagenome/news/",
 "summary": ""
 },
 
@@ -109,7 +109,7 @@
 "title": "News",
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
-"url": "//news_archive/",
+"url": "/editagenome/news_archive/",
 "summary": ""
 },
 
@@ -161,7 +161,7 @@
 "title": "Sample post",
 "tags": "newsgetting_started",
 "keywords": "",
-"url": "//samplepost/",
+"url": "/editagenome/samplepost/",
 "summary": "This is some summary frontmatter for my sample post."
 }
 ,
@@ -171,7 +171,7 @@
 "title": "Welcome to Jekyll!",
 "tags": "news",
 "keywords": "",
-"url": "//myupdate/",
+"url": "/editagenome/myupdate/",
 "summary": ""
 }
 ,
@@ -181,7 +181,7 @@
 "title": "Test post from last year",
 "tags": "news",
 "keywords": "",
-"url": "//test-post-from-last-year/",
+"url": "/editagenome/test-post-from-last-year/",
 "summary": ""
 }
 
