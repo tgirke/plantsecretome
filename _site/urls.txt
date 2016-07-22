@@ -13,8 +13,8 @@
  
 mydocmydoc_contacts:
   title: "Contacts"
-  url: /editagenome/mydoc/mydoc_contacts/
-  link: <a href="/editagenome/mydoc/mydoc_contacts/">Contacts</a>
+  url: //mydoc/mydoc_contacts/
+  link: <a href="//mydoc/mydoc_contacts/">Contacts</a>
 
 
 
@@ -22,8 +22,8 @@ mydocmydoc_contacts:
  
 mydocmydoc_protocols:
   title: "Protocols"
-  url: /editagenome/mydoc/mydoc_protocols/
-  link: <a href="/editagenome/mydoc/mydoc_protocols/">Protocols</a>
+  url: //mydoc/mydoc_protocols/
+  link: <a href="//mydoc/mydoc_protocols/">Protocols</a>
 
 
 
@@ -31,15 +31,15 @@ mydocmydoc_protocols:
  
 mydocmydoc_data01:
   title: "Data a"
-  url: /editagenome/mydoc/mydoc_data01/
-  link: <a href="/editagenome/mydoc/mydoc_data01/">Data a</a>
+  url: //mydoc/mydoc_data01/
+  link: <a href="//mydoc/mydoc_data01/">Data a</a>
 
 
  
 mydocmydoc_data02:
   title: "Data b"
-  url: /editagenome/mydoc/mydoc_data02/
-  link: <a href="/editagenome/mydoc/mydoc_data02/">Data b</a>
+  url: //mydoc/mydoc_data02/
+  link: <a href="//mydoc/mydoc_data02/">Data b</a>
 
 
 
@@ -47,15 +47,15 @@ mydocmydoc_data02:
  
 mydocmydoc_software01:
   title: "Software 1"
-  url: /editagenome/mydoc/mydoc_software01/
-  link: <a href="/editagenome/mydoc/mydoc_software01/">Software 1</a>
+  url: //mydoc/mydoc_software01/
+  link: <a href="//mydoc/mydoc_software01/">Software 1</a>
 
 
  
 mydocmydoc_software02:
   title: "Software 2"
-  url: /editagenome/mydoc/mydoc_software02/
-  link: <a href="/editagenome/mydoc/mydoc_software02/">Software 2</a>
+  url: //mydoc/mydoc_software02/
+  link: <a href="//mydoc/mydoc_software02/">Software 2</a>
 
 
 
@@ -63,8 +63,8 @@ mydocmydoc_software02:
  
 mydocmydoc_publications:
   title: "Publications"
-  url: /editagenome/mydoc/mydoc_publications/
-  link: <a href="/editagenome/mydoc/mydoc_publications/">Publications</a>
+  url: //mydoc/mydoc_publications/
+  link: <a href="//mydoc/mydoc_publications/">Publications</a>
 
 
 
@@ -72,8 +72,8 @@ mydocmydoc_publications:
  
 mydocmydoc_acknowledgement:
   title: "Acknowledgement"
-  url: /editagenome/mydoc/mydoc_acknowledgement/
-  link: <a href="/editagenome/mydoc/mydoc_acknowledgement/">Acknowledgement</a>
+  url: //mydoc/mydoc_acknowledgement/
+  link: <a href="//mydoc/mydoc_acknowledgement/">Acknowledgement</a>
 
 
 
@@ -93,29 +93,29 @@ mydocmydoc_acknowledgement:
  
 p1_landing_page:
   title: "Product 1 home"
-  url: /editagenome/p1_landing_page/
-  link: <a href="/editagenome/p1_landing_page/">Product 1 home</a>
+  url: //p1_landing_page/
+  link: <a href="//p1_landing_page/">Product 1 home</a>
 
 
  
 p1_sample1:
   title: "Sample 1"
-  url: /editagenome/p1_sample1/
-  link: <a href="/editagenome/p1_sample1/">Sample 1</a>
+  url: //p1_sample1/
+  link: <a href="//p1_sample1/">Sample 1</a>
 
 
  
 p1_sample2:
   title: "Sample 2"
-  url: /editagenome/p1_sample2/
-  link: <a href="/editagenome/p1_sample2/">Sample 2</a>
+  url: //p1_sample2/
+  link: <a href="//p1_sample2/">Sample 2</a>
 
 
  
 p1_sample3:
   title: "Sample 3"
-  url: /editagenome/p1_sample3/
-  link: <a href="/editagenome/p1_sample3/">Sample 3</a>
+  url: //p1_sample3/
+  link: <a href="//p1_sample3/">Sample 3</a>
 
 
 
@@ -123,29 +123,29 @@ p1_sample3:
  
 p1_sample4:
   title: "Sample 4"
-  url: /editagenome/p1_sample4/
-  link: <a href="/editagenome/p1_sample4/">Sample 4</a>
+  url: //p1_sample4/
+  link: <a href="//p1_sample4/">Sample 4</a>
 
 
  
 p1_sample5:
   title: "Sample 5"
-  url: /editagenome/p1_sample5/
-  link: <a href="/editagenome/p1_sample5/">Sample 5</a>
+  url: //p1_sample5/
+  link: <a href="//p1_sample5/">Sample 5</a>
 
 
  
 p1_sample6:
   title: "Sample 6"
-  url: /editagenome/p1_sample6/
-  link: <a href="/editagenome/p1_sample6/">Sample 6</a>
+  url: //p1_sample6/
+  link: <a href="//p1_sample6/">Sample 6</a>
 
 
  
 p1_sample7:
   title: "Sample 7"
-  url: /editagenome/p1_sample7/
-  link: <a href="/editagenome/p1_sample7/">Sample 7</a>
+  url: //p1_sample7/
+  link: <a href="//p1_sample7/">Sample 7</a>
 
 
 
@@ -165,8 +165,8 @@ p1_sample7:
  
 p2_landing_page:
   title: "Overview"
-  url: /editagenome/p2_landing_page/
-  link: <a href="/editagenome/p2_landing_page/">Overview</a>
+  url: //p2_landing_page/
+  link: <a href="//p2_landing_page/">Overview</a>
 
 
 
@@ -174,36 +174,36 @@ p2_landing_page:
  
 p2_sample1:
   title: "Sample 1"
-  url: /editagenome/p2_sample1/
-  link: <a href="/editagenome/p2_sample1/">Sample 1</a>
+  url: //p2_sample1/
+  link: <a href="//p2_sample1/">Sample 1</a>
 
 
  
 p2_sample2:
   title: "Sample 2"
-  url: /editagenome/p2_sample2/
-  link: <a href="/editagenome/p2_sample2/">Sample 2</a>
+  url: //p2_sample2/
+  link: <a href="//p2_sample2/">Sample 2</a>
 
 
  
 p2_sample3:
   title: "Sample 3"
-  url: /editagenome/p2_sample3/
-  link: <a href="/editagenome/p2_sample3/">Sample 3</a>
+  url: //p2_sample3/
+  link: <a href="//p2_sample3/">Sample 3</a>
 
 
  
 p2_sample4:
   title: "Sample 4"
-  url: /editagenome/p2_sample4/
-  link: <a href="/editagenome/p2_sample4/">Sample 4</a>
+  url: //p2_sample4/
+  link: <a href="//p2_sample4/">Sample 4</a>
 
 
  
 p2_sample5:
   title: "Sample 5"
-  url: /editagenome/p2_sample5/
-  link: <a href="/editagenome/p2_sample5/">Sample 5</a>
+  url: //p2_sample5/
+  link: <a href="//p2_sample5/">Sample 5</a>
 
 
 
@@ -211,64 +211,64 @@ p2_sample5:
  
 p2_sample6:
   title: "Sample 6"
-  url: /editagenome/p2_sample6/
-  link: <a href="/editagenome/p2_sample6/">Sample 6</a>
+  url: //p2_sample6/
+  link: <a href="//p2_sample6/">Sample 6</a>
 
 
  
 p2_sample7:
   title: "Sample 7"
-  url: /editagenome/p2_sample7/
-  link: <a href="/editagenome/p2_sample7/">Sample 7</a>
+  url: //p2_sample7/
+  link: <a href="//p2_sample7/">Sample 7</a>
 
 
  
 p2_sample8:
   title: "Sample 8"
-  url: /editagenome/p2_sample8/
-  link: <a href="/editagenome/p2_sample8/">Sample 8</a>
+  url: //p2_sample8/
+  link: <a href="//p2_sample8/">Sample 8</a>
 
 
  
 p2_sample9:
   title: "Sample 9"
-  url: /editagenome/p2_sample9/
-  link: <a href="/editagenome/p2_sample9/">Sample 9</a>
+  url: //p2_sample9/
+  link: <a href="//p2_sample9/">Sample 9</a>
 
 
  
 p2_sample10:
   title: "Sample 10"
-  url: /editagenome/p2_sample10/
-  link: <a href="/editagenome/p2_sample10/">Sample 10</a>
+  url: //p2_sample10/
+  link: <a href="//p2_sample10/">Sample 10</a>
 
 
  
 p2_sample11:
   title: "Sample 11"
-  url: /editagenome/p2_sample11/
-  link: <a href="/editagenome/p2_sample11/">Sample 11</a>
+  url: //p2_sample11/
+  link: <a href="//p2_sample11/">Sample 11</a>
 
 
  
 p2_sample12:
   title: "Sample 12"
-  url: /editagenome/p2_sample12/
-  link: <a href="/editagenome/p2_sample12/">Sample 12</a>
+  url: //p2_sample12/
+  link: <a href="//p2_sample12/">Sample 12</a>
 
 
  
 p2_sample13:
   title: "Sample 13"
-  url: /editagenome/p2_sample13/
-  link: <a href="/editagenome/p2_sample13/">Sample 13</a>
+  url: //p2_sample13/
+  link: <a href="//p2_sample13/">Sample 13</a>
 
 
  
 p2_sample14:
   title: "Sample 14"
-  url: /editagenome/p2_sample14/
-  link: <a href="/editagenome/p2_sample14/">Sample 14</a>
+  url: //p2_sample14/
+  link: <a href="//p2_sample14/">Sample 14</a>
 
 
 
