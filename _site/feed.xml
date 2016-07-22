@@ -3,10 +3,10 @@
     <channel>
         <title></title>
         <description>Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features.</description>
-        <link>http://idratherbewriting.com//</link>
-        <atom:link href="http://idratherbewriting.com//feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 Jul 2016 12:52:06 -0700</pubDate>
-        <lastBuildDate>Fri, 22 Jul 2016 12:52:06 -0700</lastBuildDate>
+        <link>http://idratherbewriting.com/</link>
+        <atom:link href="http://idratherbewriting.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 22 Jul 2016 13:23:14 -0700</pubDate>
+        <lastBuildDate>Fri, 22 Jul 2016 13:23:14 -0700</lastBuildDate>
         <generator>Jekyll v3.1.6</generator>
         
         <item>
@@ -21,8 +21,8 @@
 
 </description>
             <pubDate>Fri, 26 Feb 2016 00:00:00 -0800</pubDate>
-            <link>http://idratherbewriting.com//samplepost/</link>
-            <guid isPermaLink="true">http://idratherbewriting.com//samplepost/</guid>
+            <link>http://idratherbewriting.com/samplepost/</link>
+            <guid isPermaLink="true">http://idratherbewriting.com/samplepost/</guid>
             
             <category>news</category>
             
@@ -46,8 +46,8 @@
 &lt;/ul&gt;
 </description>
             <pubDate>Wed, 24 Feb 2016 00:00:00 -0800</pubDate>
-            <link>http://idratherbewriting.com//myupdate/</link>
-            <guid isPermaLink="true">http://idratherbewriting.com//myupdate/</guid>
+            <link>http://idratherbewriting.com/myupdate/</link>
+            <guid isPermaLink="true">http://idratherbewriting.com/myupdate/</guid>
             
             <category>news</category>
             
@@ -59,8 +59,8 @@
             <description>&lt;p&gt;This is just a test post from the previous year.&lt;/p&gt;
 </description>
             <pubDate>Sun, 12 Apr 2015 00:00:00 -0700</pubDate>
-            <link>http://idratherbewriting.com//test-post-from-last-year/</link>
-            <guid isPermaLink="true">http://idratherbewriting.com//test-post-from-last-year/</guid>
+            <link>http://idratherbewriting.com/test-post-from-last-year/</link>
+            <guid isPermaLink="true">http://idratherbewriting.com/test-post-from-last-year/</guid>
             
             <category>news</category>
             
