@@ -6,10 +6,10 @@
 
 
 {
-"title": "RNA-Seq Analysis with R and Bioconductor",
+"title": "Plant SECRETome Project Site",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/",
+"url": "/plantsecretome/",
 "summary": ""
 },
 
@@ -19,7 +19,7 @@
 "title": "Introduction to R",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_01/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_01/",
 "summary": ""
 },
 
@@ -29,7 +29,7 @@
 "title": "R Package Repositories",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_02/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_02/",
 "summary": ""
 },
 
@@ -39,7 +39,7 @@
 "title": "Installation of R and Add-on Packages",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_03/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_03/",
 "summary": ""
 },
 
@@ -49,7 +49,7 @@
 "title": "Getting Around",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_04/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_04/",
 "summary": ""
 },
 
@@ -59,7 +59,7 @@
 "title": "Basic Syntax",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_05/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_05/",
 "summary": ""
 },
 
@@ -69,7 +69,7 @@
 "title": "Data Types",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_06/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_06/",
 "summary": ""
 },
 
@@ -79,7 +79,7 @@
 "title": "Data objects",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_07/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_07/",
 "summary": ""
 },
 
@@ -89,7 +89,7 @@
 "title": "Important Utilities",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_08/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_08/",
 "summary": ""
 },
 
@@ -99,7 +99,7 @@
 "title": "Operators and Calculations",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_09/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_09/",
 "summary": ""
 },
 
@@ -109,7 +109,7 @@
 "title": "Reading and Writing External Data",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_10/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_10/",
 "summary": ""
 },
 
@@ -119,7 +119,7 @@
 "title": "Useful R Functions",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_11/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_11/",
 "summary": ""
 },
 
@@ -129,7 +129,7 @@
 "title": "SQLite Databases",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_12/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_12/",
 "summary": ""
 },
 
@@ -139,7 +139,7 @@
 "title": "R Markdown",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_13/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_13/",
 "summary": ""
 },
 
@@ -149,7 +149,7 @@
 "title": "Session Info",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_14/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_14/",
 "summary": ""
 },
 
@@ -159,7 +159,7 @@
 "title": "References",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_15/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_15/",
 "summary": ""
 },
 
@@ -169,7 +169,7 @@
 "title": "Session Info",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_16/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_16/",
 "summary": ""
 },
 
@@ -179,7 +179,7 @@
 "title": "References",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rbasics_17/",
+"url": "/plantsecretome/mydoc/mydoc_Rbasics_17/",
 "summary": ""
 },
 
@@ -189,7 +189,7 @@
 "title": "R Graphics",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rgraphics_1/",
+"url": "/plantsecretome/mydoc/mydoc_Rgraphics_1/",
 "summary": ""
 },
 
@@ -199,7 +199,7 @@
 "title": "Base Graphics",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rgraphics_2/",
+"url": "/plantsecretome/mydoc/mydoc_Rgraphics_2/",
 "summary": ""
 },
 
@@ -209,7 +209,7 @@
 "title": "Grid Graphics",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rgraphics_3/",
+"url": "/plantsecretome/mydoc/mydoc_Rgraphics_3/",
 "summary": ""
 },
 
@@ -219,7 +219,7 @@
 "title": "lattice Graphics",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rgraphics_4/",
+"url": "/plantsecretome/mydoc/mydoc_Rgraphics_4/",
 "summary": ""
 },
 
@@ -229,7 +229,7 @@
 "title": "ggplot2 Graphics",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rgraphics_5/",
+"url": "/plantsecretome/mydoc/mydoc_Rgraphics_5/",
 "summary": ""
 },
 
@@ -239,7 +239,7 @@
 "title": "Specialty Graphics",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rgraphics_6/",
+"url": "/plantsecretome/mydoc/mydoc_Rgraphics_6/",
 "summary": ""
 },
 
@@ -249,7 +249,7 @@
 "title": "Genome Graphics",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rgraphics_7/",
+"url": "/plantsecretome/mydoc/mydoc_Rgraphics_7/",
 "summary": ""
 },
 
@@ -259,7 +259,7 @@
 "title": "References",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_Rgraphics_8/",
+"url": "/plantsecretome/mydoc/mydoc_Rgraphics_8/",
 "summary": ""
 },
 
@@ -269,7 +269,7 @@
 "title": "Requirements",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_requirements/",
+"url": "/plantsecretome/mydoc/mydoc_requirements/",
 "summary": ""
 },
 
@@ -279,7 +279,7 @@
 "title": "Introduction to RNA-Seq Data Analysis",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_slides/",
+"url": "/plantsecretome/mydoc/mydoc_slides/",
 "summary": ""
 },
 
@@ -289,7 +289,7 @@
 "title": "RNA-Seq Workflow",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_01/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_01/",
 "summary": ""
 },
 
@@ -299,7 +299,7 @@
 "title": "Sample definitions and environment settings",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_02/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_02/",
 "summary": ""
 },
 
@@ -309,7 +309,7 @@
 "title": "Read preprocessing",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_03/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_03/",
 "summary": ""
 },
 
@@ -319,7 +319,7 @@
 "title": "Alignments",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_04/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_04/",
 "summary": ""
 },
 
@@ -329,7 +329,7 @@
 "title": "Read distribution across genomic features",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_05/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_05/",
 "summary": ""
 },
 
@@ -339,7 +339,7 @@
 "title": "Read quantification per annotation range",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_06/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_06/",
 "summary": ""
 },
 
@@ -349,7 +349,7 @@
 "title": "Analysis of differentially expressed genes with edgeR",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_07/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_07/",
 "summary": ""
 },
 
@@ -359,7 +359,7 @@
 "title": "GO term enrichment analysis of DEGs",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_08/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_08/",
 "summary": ""
 },
 
@@ -369,7 +369,7 @@
 "title": "Clustering and heat maps",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_09/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_09/",
 "summary": ""
 },
 
@@ -379,7 +379,7 @@
 "title": "Render report in HTML and PDF format",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_10/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_10/",
 "summary": ""
 },
 
@@ -389,7 +389,7 @@
 "title": "Version Information",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_11/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_11/",
 "summary": ""
 },
 
@@ -399,7 +399,7 @@
 "title": "Funding",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_12/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_12/",
 "summary": ""
 },
 
@@ -409,7 +409,7 @@
 "title": "References",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_13/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_13/",
 "summary": ""
 },
 
@@ -419,7 +419,7 @@
 "title": "NGS Workflow Overview",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeR_1/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeR_1/",
 "summary": ""
 },
 
@@ -429,7 +429,7 @@
 "title": "Getting Started",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeR_2/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeR_2/",
 "summary": ""
 },
 
@@ -439,7 +439,7 @@
 "title": "More detail",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeR_3/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeR_3/",
 "summary": ""
 },
 
@@ -449,7 +449,7 @@
 "title": "Workflow demo",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeR_4/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeR_4/",
 "summary": ""
 },
 
@@ -459,7 +459,7 @@
 "title": "Version information",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeR_5/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeR_5/",
 "summary": ""
 },
 
@@ -469,7 +469,7 @@
 "title": "References",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeR_6/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeR_6/",
 "summary": ""
 },
 
@@ -479,7 +479,7 @@
 "title": "References",
 "tags": "",
 "keywords": "",
-"url": "/CSHL_RNAseq/mydoc/mydoc_systemPipeR_7/",
+"url": "/plantsecretome/mydoc/mydoc_systemPipeR_7/",
 "summary": ""
 },
 
@@ -489,7 +489,7 @@
 "title": "News",
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
-"url": "/CSHL_RNAseq/news/",
+"url": "/plantsecretome/news/",
 "summary": ""
 },
 
@@ -499,7 +499,7 @@
 "title": "News",
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
-"url": "/CSHL_RNAseq/news_archive/",
+"url": "/plantsecretome/news_archive/",
 "summary": ""
 },
 
@@ -551,7 +551,7 @@
 "title": "Sample post",
 "tags": "newsgetting_started",
 "keywords": "",
-"url": "/CSHL_RNAseq/samplepost/",
+"url": "/plantsecretome/samplepost/",
 "summary": "This is some summary frontmatter for my sample post."
 }
 ,
@@ -561,7 +561,7 @@
 "title": "Welcome to Jekyll!",
 "tags": "news",
 "keywords": "",
-"url": "/CSHL_RNAseq/myupdate/",
+"url": "/plantsecretome/myupdate/",
 "summary": ""
 }
 ,
@@ -571,7 +571,7 @@
 "title": "Test post from last year",
 "tags": "news",
 "keywords": "",
-"url": "/CSHL_RNAseq/test-post-from-last-year/",
+"url": "/plantsecretome/test-post-from-last-year/",
 "summary": ""
 }
 

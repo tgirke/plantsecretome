@@ -2,15 +2,15 @@ permalink: /:year/:month/:day/:title/
 # this sets the style for permalinks. The date formatting (/:year/:month/:day/) will only apply to blog posts, while the pages will just show the title.
 url: http://idratherbewriting.com
 # where you plan to publish your site
-baseurl: "/CSHL_RNAseq"
+baseurl: "/plantsecretome"
 # any subdirectory that appears after the domain where you're publishing your site
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
-topnav_title: 2016 CSHL Course: Plant Sciences
+topnav_title: Plant SECRETome Project
 # this appears on the top navigation bar next to the home button
 site_title: Manual
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
-company_name: UC Riverside
+company_name: Carnegie Institution for Science
 # this appears in the footer
 github_editme_path:
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.

@@ -13,8 +13,8 @@
  
 mydocmydoc_requirements:
   title: "Requirements"
-  url: /CSHL_RNAseq/mydoc/mydoc_requirements/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_requirements/">Requirements</a>
+  url: /plantsecretome/mydoc/mydoc_requirements/
+  link: <a href="/plantsecretome/mydoc/mydoc_requirements/">Requirements</a>
 
 
 
@@ -22,8 +22,8 @@ mydocmydoc_requirements:
  
 mydocmydoc_slides:
   title: "Slides"
-  url: /CSHL_RNAseq/mydoc/mydoc_slides/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_slides/">Slides</a>
+  url: /plantsecretome/mydoc/mydoc_slides/
+  link: <a href="/plantsecretome/mydoc/mydoc_slides/">Slides</a>
 
 
 
@@ -31,106 +31,106 @@ mydocmydoc_slides:
  
 mydocmydoc_Rbasics_01:
   title: "1. Overview"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_01/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_01/">1. Overview</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_01/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_01/">1. Overview</a>
 
 
  
 mydocmydoc_Rbasics_02:
   title: "2. R Package Repositories"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_02/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_02/">2. R Package Repositories</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_02/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_02/">2. R Package Repositories</a>
 
 
  
 mydocmydoc_Rbasics_03:
   title: "3. Installation of R and Add-on Packages"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_03/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_03/">3. Installation of R and Add-on Packages</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_03/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_03/">3. Installation of R and Add-on Packages</a>
 
 
  
 mydocmydoc_Rbasics_04:
   title: "4. Getting Around"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_04/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_04/">4. Getting Around</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_04/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_04/">4. Getting Around</a>
 
 
  
 mydocmydoc_Rbasics_05:
   title: "5. Basic Syntax"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_05/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_05/">5. Basic Syntax</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_05/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_05/">5. Basic Syntax</a>
 
 
  
 mydocmydoc_Rbasics_06:
   title: "6. Data Types"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_06/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_06/">6. Data Types</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_06/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_06/">6. Data Types</a>
 
 
  
 mydocmydoc_Rbasics_07:
   title: "7. Data objects"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_07/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_07/">7. Data objects</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_07/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_07/">7. Data objects</a>
 
 
  
 mydocmydoc_Rbasics_08:
   title: "8. Important Utilities"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_08/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_08/">8. Important Utilities</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_08/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_08/">8. Important Utilities</a>
 
 
  
 mydocmydoc_Rbasics_09:
   title: "9. Operators and Calculations"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_09/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_09/">9. Operators and Calculations</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_09/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_09/">9. Operators and Calculations</a>
 
 
  
 mydocmydoc_Rbasics_10:
   title: "10. Reading and Writing External Data"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_10/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_10/">10. Reading and Writing External Data</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_10/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_10/">10. Reading and Writing External Data</a>
 
 
  
 mydocmydoc_Rbasics_11:
   title: "11. Useful R Functions"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_11/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_11/">11. Useful R Functions</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_11/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_11/">11. Useful R Functions</a>
 
 
  
 mydocmydoc_Rbasics_12:
   title: "12. SQLite Databases"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_12/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_12/">12. SQLite Databases</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_12/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_12/">12. SQLite Databases</a>
 
 
  
 mydocmydoc_Rbasics_13:
   title: "13. R Markdown"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_13/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_13/">13. R Markdown</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_13/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_13/">13. R Markdown</a>
 
 
  
 mydocmydoc_Rbasics_14:
   title: "14. Session Info"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_14/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_14/">14. Session Info</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_14/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_14/">14. Session Info</a>
 
 
  
 mydocmydoc_Rbasics_15:
   title: "15. References"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rbasics_15/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rbasics_15/">15. References</a>
+  url: /plantsecretome/mydoc/mydoc_Rbasics_15/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_15/">15. References</a>
 
 
 
@@ -138,57 +138,57 @@ mydocmydoc_Rbasics_15:
  
 mydocmydoc_Rgraphics_1:
   title: "1. Overview"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rgraphics_1/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rgraphics_1/">1. Overview</a>
+  url: /plantsecretome/mydoc/mydoc_Rgraphics_1/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_1/">1. Overview</a>
 
 
  
 mydocmydoc_Rgraphics_2:
   title: "2. Base Graphics"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rgraphics_2/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rgraphics_2/">2. Base Graphics</a>
+  url: /plantsecretome/mydoc/mydoc_Rgraphics_2/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_2/">2. Base Graphics</a>
 
 
  
 mydocmydoc_Rgraphics_3:
   title: "3. Grid Graphics"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rgraphics_3/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rgraphics_3/">3. Grid Graphics</a>
+  url: /plantsecretome/mydoc/mydoc_Rgraphics_3/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_3/">3. Grid Graphics</a>
 
 
  
 mydocmydoc_Rgraphics_4:
   title: "4. lattice Graphics"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rgraphics_4/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rgraphics_4/">4. lattice Graphics</a>
+  url: /plantsecretome/mydoc/mydoc_Rgraphics_4/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_4/">4. lattice Graphics</a>
 
 
  
 mydocmydoc_Rgraphics_5:
   title: "5. ggplot2 Graphics"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rgraphics_5/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rgraphics_5/">5. ggplot2 Graphics</a>
+  url: /plantsecretome/mydoc/mydoc_Rgraphics_5/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_5/">5. ggplot2 Graphics</a>
 
 
  
 mydocmydoc_Rgraphics_6:
   title: "6. Specialty Graphics"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rgraphics_6/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rgraphics_6/">6. Specialty Graphics</a>
+  url: /plantsecretome/mydoc/mydoc_Rgraphics_6/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_6/">6. Specialty Graphics</a>
 
 
  
 mydocmydoc_Rgraphics_7:
   title: "7. Genome Graphics"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rgraphics_7/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rgraphics_7/">7. Genome Graphics</a>
+  url: /plantsecretome/mydoc/mydoc_Rgraphics_7/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_7/">7. Genome Graphics</a>
 
 
  
 mydocmydoc_Rgraphics_8:
   title: "8. References"
-  url: /CSHL_RNAseq/mydoc/mydoc_Rgraphics_8/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_Rgraphics_8/">8. References</a>
+  url: /plantsecretome/mydoc/mydoc_Rgraphics_8/
+  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_8/">8. References</a>
 
 
 
@@ -196,43 +196,43 @@ mydocmydoc_Rgraphics_8:
  
 mydocmydoc_systemPipeR_1:
   title: "1. Background"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeR_1/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeR_1/">1. Background</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeR_1/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_1/">1. Background</a>
 
 
  
 mydocmydoc_systemPipeR_2:
   title: "2. Getting Started"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeR_2/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeR_2/">2. Getting Started</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeR_2/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_2/">2. Getting Started</a>
 
 
  
 mydocmydoc_systemPipeR_3:
   title: "3. More detail"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeR_3/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeR_3/">3. More detail</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeR_3/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_3/">3. More detail</a>
 
 
  
 mydocmydoc_systemPipeR_4:
   title: "4. Workflow demo"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeR_4/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeR_4/">4. Workflow demo</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeR_4/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_4/">4. Workflow demo</a>
 
 
  
 mydocmydoc_systemPipeR_5:
   title: "5. Version information"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeR_5/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeR_5/">5. Version information</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeR_5/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_5/">5. Version information</a>
 
 
  
 mydocmydoc_systemPipeR_6:
   title: "6. References"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeR_6/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeR_6/">6. References</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeR_6/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_6/">6. References</a>
 
 
 
@@ -240,92 +240,92 @@ mydocmydoc_systemPipeR_6:
  
 mydocmydoc_systemPipeRNAseq_01:
   title: "1. Introduction"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_01/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_01/">1. Introduction</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_01/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_01/">1. Introduction</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_02:
   title: "2. Sample definitions and environment settings"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_02/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_02/">2. Sample definitions and environment settings</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_02/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_02/">2. Sample definitions and environment settings</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_03:
   title: "3. Read preprocessing"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_03/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_03/">3. Read preprocessing</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_03/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_03/">3. Read preprocessing</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_04:
   title: "4. Alignments"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_04/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_04/">4. Alignments</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_04/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_04/">4. Alignments</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_05:
   title: "5. Read distribution across genomic features"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_05/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_05/">5. Read distribution across genomic features</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_05/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_05/">5. Read distribution across genomic features</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_06:
   title: "6. Read quantification per annotation range"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_06/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_06/">6. Read quantification per annotation range</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_06/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_06/">6. Read quantification per annotation range</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_07:
   title: "7. Analysis of differentially expressed genes with edgeR"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_07/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_07/">7. Analysis of differentially expressed genes with edgeR</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_07/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_07/">7. Analysis of differentially expressed genes with edgeR</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_08:
   title: "8. GO term enrichment analysis of DEGs"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_08/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_08/">8. GO term enrichment analysis of DEGs</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_08/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_08/">8. GO term enrichment analysis of DEGs</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_09:
   title: "9. Clustering and heat maps"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_09/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_09/">9. Clustering and heat maps</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_09/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_09/">9. Clustering and heat maps</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_10:
   title: "10. Render report in HTML and PDF format"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_10/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_10/">10. Render report in HTML and PDF format</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_10/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_10/">10. Render report in HTML and PDF format</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_11:
   title: "11. Version Information"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_11/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_11/">11. Version Information</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_11/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_11/">11. Version Information</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_12:
   title: "12. Funding"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_12/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_12/">12. Funding</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_12/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_12/">12. Funding</a>
 
 
  
 mydocmydoc_systemPipeRNAseq_13:
   title: "13. References"
-  url: /CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_13/
-  link: <a href="/CSHL_RNAseq/mydoc/mydoc_systemPipeRNAseq_13/">13. References</a>
+  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_13/
+  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_13/">13. References</a>
 
 
 
@@ -345,29 +345,29 @@ mydocmydoc_systemPipeRNAseq_13:
  
 p1_landing_page:
   title: "Product 1 home"
-  url: /CSHL_RNAseq/p1_landing_page/
-  link: <a href="/CSHL_RNAseq/p1_landing_page/">Product 1 home</a>
+  url: /plantsecretome/p1_landing_page/
+  link: <a href="/plantsecretome/p1_landing_page/">Product 1 home</a>
 
 
  
 p1_sample1:
   title: "Sample 1"
-  url: /CSHL_RNAseq/p1_sample1/
-  link: <a href="/CSHL_RNAseq/p1_sample1/">Sample 1</a>
+  url: /plantsecretome/p1_sample1/
+  link: <a href="/plantsecretome/p1_sample1/">Sample 1</a>
 
 
  
 p1_sample2:
   title: "Sample 2"
-  url: /CSHL_RNAseq/p1_sample2/
-  link: <a href="/CSHL_RNAseq/p1_sample2/">Sample 2</a>
+  url: /plantsecretome/p1_sample2/
+  link: <a href="/plantsecretome/p1_sample2/">Sample 2</a>
 
 
  
 p1_sample3:
   title: "Sample 3"
-  url: /CSHL_RNAseq/p1_sample3/
-  link: <a href="/CSHL_RNAseq/p1_sample3/">Sample 3</a>
+  url: /plantsecretome/p1_sample3/
+  link: <a href="/plantsecretome/p1_sample3/">Sample 3</a>
 
 
 
@@ -375,29 +375,29 @@ p1_sample3:
  
 p1_sample4:
   title: "Sample 4"
-  url: /CSHL_RNAseq/p1_sample4/
-  link: <a href="/CSHL_RNAseq/p1_sample4/">Sample 4</a>
+  url: /plantsecretome/p1_sample4/
+  link: <a href="/plantsecretome/p1_sample4/">Sample 4</a>
 
 
  
 p1_sample5:
   title: "Sample 5"
-  url: /CSHL_RNAseq/p1_sample5/
-  link: <a href="/CSHL_RNAseq/p1_sample5/">Sample 5</a>
+  url: /plantsecretome/p1_sample5/
+  link: <a href="/plantsecretome/p1_sample5/">Sample 5</a>
 
 
  
 p1_sample6:
   title: "Sample 6"
-  url: /CSHL_RNAseq/p1_sample6/
-  link: <a href="/CSHL_RNAseq/p1_sample6/">Sample 6</a>
+  url: /plantsecretome/p1_sample6/
+  link: <a href="/plantsecretome/p1_sample6/">Sample 6</a>
 
 
  
 p1_sample7:
   title: "Sample 7"
-  url: /CSHL_RNAseq/p1_sample7/
-  link: <a href="/CSHL_RNAseq/p1_sample7/">Sample 7</a>
+  url: /plantsecretome/p1_sample7/
+  link: <a href="/plantsecretome/p1_sample7/">Sample 7</a>
 
 
 
@@ -417,8 +417,8 @@ p1_sample7:
  
 p2_landing_page:
   title: "Overview"
-  url: /CSHL_RNAseq/p2_landing_page/
-  link: <a href="/CSHL_RNAseq/p2_landing_page/">Overview</a>
+  url: /plantsecretome/p2_landing_page/
+  link: <a href="/plantsecretome/p2_landing_page/">Overview</a>
 
 
 
@@ -426,36 +426,36 @@ p2_landing_page:
  
 p2_sample1:
   title: "Sample 1"
-  url: /CSHL_RNAseq/p2_sample1/
-  link: <a href="/CSHL_RNAseq/p2_sample1/">Sample 1</a>
+  url: /plantsecretome/p2_sample1/
+  link: <a href="/plantsecretome/p2_sample1/">Sample 1</a>
 
 
  
 p2_sample2:
   title: "Sample 2"
-  url: /CSHL_RNAseq/p2_sample2/
-  link: <a href="/CSHL_RNAseq/p2_sample2/">Sample 2</a>
+  url: /plantsecretome/p2_sample2/
+  link: <a href="/plantsecretome/p2_sample2/">Sample 2</a>
 
 
  
 p2_sample3:
   title: "Sample 3"
-  url: /CSHL_RNAseq/p2_sample3/
-  link: <a href="/CSHL_RNAseq/p2_sample3/">Sample 3</a>
+  url: /plantsecretome/p2_sample3/
+  link: <a href="/plantsecretome/p2_sample3/">Sample 3</a>
 
 
  
 p2_sample4:
   title: "Sample 4"
-  url: /CSHL_RNAseq/p2_sample4/
-  link: <a href="/CSHL_RNAseq/p2_sample4/">Sample 4</a>
+  url: /plantsecretome/p2_sample4/
+  link: <a href="/plantsecretome/p2_sample4/">Sample 4</a>
 
 
  
 p2_sample5:
   title: "Sample 5"
-  url: /CSHL_RNAseq/p2_sample5/
-  link: <a href="/CSHL_RNAseq/p2_sample5/">Sample 5</a>
+  url: /plantsecretome/p2_sample5/
+  link: <a href="/plantsecretome/p2_sample5/">Sample 5</a>
 
 
 
@@ -463,64 +463,64 @@ p2_sample5:
  
 p2_sample6:
   title: "Sample 6"
-  url: /CSHL_RNAseq/p2_sample6/
-  link: <a href="/CSHL_RNAseq/p2_sample6/">Sample 6</a>
+  url: /plantsecretome/p2_sample6/
+  link: <a href="/plantsecretome/p2_sample6/">Sample 6</a>
 
 
  
 p2_sample7:
   title: "Sample 7"
-  url: /CSHL_RNAseq/p2_sample7/
-  link: <a href="/CSHL_RNAseq/p2_sample7/">Sample 7</a>
+  url: /plantsecretome/p2_sample7/
+  link: <a href="/plantsecretome/p2_sample7/">Sample 7</a>
 
 
  
 p2_sample8:
   title: "Sample 8"
-  url: /CSHL_RNAseq/p2_sample8/
-  link: <a href="/CSHL_RNAseq/p2_sample8/">Sample 8</a>
+  url: /plantsecretome/p2_sample8/
+  link: <a href="/plantsecretome/p2_sample8/">Sample 8</a>
 
 
  
 p2_sample9:
   title: "Sample 9"
-  url: /CSHL_RNAseq/p2_sample9/
-  link: <a href="/CSHL_RNAseq/p2_sample9/">Sample 9</a>
+  url: /plantsecretome/p2_sample9/
+  link: <a href="/plantsecretome/p2_sample9/">Sample 9</a>
 
 
  
 p2_sample10:
   title: "Sample 10"
-  url: /CSHL_RNAseq/p2_sample10/
-  link: <a href="/CSHL_RNAseq/p2_sample10/">Sample 10</a>
+  url: /plantsecretome/p2_sample10/
+  link: <a href="/plantsecretome/p2_sample10/">Sample 10</a>
 
 
  
 p2_sample11:
   title: "Sample 11"
-  url: /CSHL_RNAseq/p2_sample11/
-  link: <a href="/CSHL_RNAseq/p2_sample11/">Sample 11</a>
+  url: /plantsecretome/p2_sample11/
+  link: <a href="/plantsecretome/p2_sample11/">Sample 11</a>
 
 
  
 p2_sample12:
   title: "Sample 12"
-  url: /CSHL_RNAseq/p2_sample12/
-  link: <a href="/CSHL_RNAseq/p2_sample12/">Sample 12</a>
+  url: /plantsecretome/p2_sample12/
+  link: <a href="/plantsecretome/p2_sample12/">Sample 12</a>
 
 
  
 p2_sample13:
   title: "Sample 13"
-  url: /CSHL_RNAseq/p2_sample13/
-  link: <a href="/CSHL_RNAseq/p2_sample13/">Sample 13</a>
+  url: /plantsecretome/p2_sample13/
+  link: <a href="/plantsecretome/p2_sample13/">Sample 13</a>
 
 
  
 p2_sample14:
   title: "Sample 14"
-  url: /CSHL_RNAseq/p2_sample14/
-  link: <a href="/CSHL_RNAseq/p2_sample14/">Sample 14</a>
+  url: /plantsecretome/p2_sample14/
+  link: <a href="/plantsecretome/p2_sample14/">Sample 14</a>
 
 
 
