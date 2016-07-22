@@ -28,10 +28,6 @@ entries:
       type: homepage
       output: web, pdf
 
-    - title: Contacts
-      url: /mydoc/mydoc_contacts/
-      output: web, pdf
-  
   - title: Protocols
     output: web, pdf
     folderitems:
@@ -127,5 +123,13 @@ entries:
       product: all
       version: all
       output: web
+  
+  - title: Contacts
+    output: web, pdf
+    folderitems:
+
+    - title: Contacts
+      url: /mydoc/mydoc_contacts/
+      output: web, pdf
 
 
