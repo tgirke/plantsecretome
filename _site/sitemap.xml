@@ -34,283 +34,49 @@
   
   
   <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_01/</loc>
+    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_acknowledgement/</loc>
   </url>
   
   
   
   <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_02/</loc>
+    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_contacts/</loc>
   </url>
   
   
   
   <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_03/</loc>
+    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_data01/</loc>
   </url>
   
   
   
   <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_04/</loc>
+    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_data02/</loc>
   </url>
   
   
   
   <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_05/</loc>
+    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_protocols/</loc>
   </url>
   
   
   
   <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_06/</loc>
+    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_publications/</loc>
   </url>
   
   
   
   <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_07/</loc>
+    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_software01/</loc>
   </url>
   
   
   
   <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_08/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_09/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_10/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_11/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_12/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_13/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_14/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_15/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_16/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rbasics_17/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rgraphics_1/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rgraphics_2/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rgraphics_3/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rgraphics_4/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rgraphics_5/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rgraphics_6/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rgraphics_7/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_Rgraphics_8/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_requirements/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_slides/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_01/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_02/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_03/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_04/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_05/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_06/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_07/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_08/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_09/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_10/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_11/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_12/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeRNAseq_13/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeR_1/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeR_2/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeR_3/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeR_4/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeR_5/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeR_6/</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_systemPipeR_7/</loc>
+    <loc>http://idratherbewriting.com/plantsecretome/mydoc/mydoc_software02/</loc>
   </url>
   
   

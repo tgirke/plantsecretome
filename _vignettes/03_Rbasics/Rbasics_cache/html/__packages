@@ -1,8 +1,0 @@
-base
-BiocStyle
-limma
-ggplot2
-DBI
-RSQLite
-gplots
-knitr

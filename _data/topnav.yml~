@@ -3,22 +3,24 @@
 topnav:
 - title: Topnav
   items:
-    - title: CSHL
-      external_url: https://meetings.cshl.edu/courses.aspx?course=c-plan&year=16
+    - title: PGRP
+      external_url: https://nsf.gov/funding/pgm_summ.jsp?pims_id=5338
     - title: Github Repo
-      external_url: https://github.com/tgirke/CSHL_RNAseq/tree/gh-pages
+      external_url: https://github.com/tgirke/plantsectretome/tree/gh-pages
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Resources
+    - title: Participants
       folderitems:
-        - title: CRAN
-          external_url: https://cran.r-project.org/
-        - title: Bioconductor
-          external_url: http://bioconductor.org/
-        - title: Girke Lab
+        - title: Wolf Frommer (Carnegie Institution for Science)
+          external_url: https://dpb.carnegiescience.edu/labs/frommer-lab 
+        - title: Julia Bailey-Serres (UC Riverside)
+          external_url: http://cepceb.ucr.edu/people/bailey-serres.html
+        - title: Bing Yang (Iowa State Univeristy)
+          external_url: http://www.gdcb.iastate.edu/faculty-and-research/faculty/bing-yang/
+        - title: Thomas Girke (UC Riverside)
           external_url: http://girke.bioinformatics.ucr.edu/
 
 

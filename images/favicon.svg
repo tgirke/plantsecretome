@@ -17,7 +17,7 @@
    inkscape:export-filename="/home/tgirke/Desktop/logo.png"
    inkscape:export-xdpi="59.994164"
    inkscape:export-ydpi="59.994164"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="favicon.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -40,7 +40,7 @@
      inkscape:window-width="1211"
      inkscape:window-height="869"
      inkscape:window-x="515"
-     inkscape:window-y="24"
+     inkscape:window-y="34"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -83,6 +83,6 @@
          x="-232.77721"
          y="175.36177"
          style="font-size:36px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
-         id="tspan2989-5">242</tspan></text>
+         id="tspan2989-5">SEC</tspan></text>
   </g>
 </svg>

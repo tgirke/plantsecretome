@@ -11,321 +11,69 @@
  
 
  
-mydocmydoc_requirements:
-  title: "Requirements"
-  url: /plantsecretome/mydoc/mydoc_requirements/
-  link: <a href="/plantsecretome/mydoc/mydoc_requirements/">Requirements</a>
+mydocmydoc_contacts:
+  title: "Contacts"
+  url: /plantsecretome/mydoc/mydoc_contacts/
+  link: <a href="/plantsecretome/mydoc/mydoc_contacts/">Contacts</a>
 
 
 
 
  
-mydocmydoc_slides:
-  title: "Slides"
-  url: /plantsecretome/mydoc/mydoc_slides/
-  link: <a href="/plantsecretome/mydoc/mydoc_slides/">Slides</a>
+mydocmydoc_protocols:
+  title: "Protocols"
+  url: /plantsecretome/mydoc/mydoc_protocols/
+  link: <a href="/plantsecretome/mydoc/mydoc_protocols/">Protocols</a>
 
 
 
 
  
-mydocmydoc_Rbasics_01:
-  title: "1. Overview"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_01/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_01/">1. Overview</a>
+mydocmydoc_data01:
+  title: "Data a"
+  url: /plantsecretome/mydoc/mydoc_data01/
+  link: <a href="/plantsecretome/mydoc/mydoc_data01/">Data a</a>
 
 
  
-mydocmydoc_Rbasics_02:
-  title: "2. R Package Repositories"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_02/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_02/">2. R Package Repositories</a>
-
-
- 
-mydocmydoc_Rbasics_03:
-  title: "3. Installation of R and Add-on Packages"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_03/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_03/">3. Installation of R and Add-on Packages</a>
-
-
- 
-mydocmydoc_Rbasics_04:
-  title: "4. Getting Around"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_04/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_04/">4. Getting Around</a>
-
-
- 
-mydocmydoc_Rbasics_05:
-  title: "5. Basic Syntax"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_05/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_05/">5. Basic Syntax</a>
-
-
- 
-mydocmydoc_Rbasics_06:
-  title: "6. Data Types"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_06/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_06/">6. Data Types</a>
-
-
- 
-mydocmydoc_Rbasics_07:
-  title: "7. Data objects"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_07/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_07/">7. Data objects</a>
-
-
- 
-mydocmydoc_Rbasics_08:
-  title: "8. Important Utilities"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_08/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_08/">8. Important Utilities</a>
-
-
- 
-mydocmydoc_Rbasics_09:
-  title: "9. Operators and Calculations"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_09/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_09/">9. Operators and Calculations</a>
-
-
- 
-mydocmydoc_Rbasics_10:
-  title: "10. Reading and Writing External Data"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_10/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_10/">10. Reading and Writing External Data</a>
-
-
- 
-mydocmydoc_Rbasics_11:
-  title: "11. Useful R Functions"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_11/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_11/">11. Useful R Functions</a>
-
-
- 
-mydocmydoc_Rbasics_12:
-  title: "12. SQLite Databases"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_12/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_12/">12. SQLite Databases</a>
-
-
- 
-mydocmydoc_Rbasics_13:
-  title: "13. R Markdown"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_13/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_13/">13. R Markdown</a>
-
-
- 
-mydocmydoc_Rbasics_14:
-  title: "14. Session Info"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_14/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_14/">14. Session Info</a>
-
-
- 
-mydocmydoc_Rbasics_15:
-  title: "15. References"
-  url: /plantsecretome/mydoc/mydoc_Rbasics_15/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rbasics_15/">15. References</a>
+mydocmydoc_data02:
+  title: "Data b"
+  url: /plantsecretome/mydoc/mydoc_data02/
+  link: <a href="/plantsecretome/mydoc/mydoc_data02/">Data b</a>
 
 
 
 
  
-mydocmydoc_Rgraphics_1:
-  title: "1. Overview"
-  url: /plantsecretome/mydoc/mydoc_Rgraphics_1/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_1/">1. Overview</a>
+mydocmydoc_software01:
+  title: "Software 1"
+  url: /plantsecretome/mydoc/mydoc_software01/
+  link: <a href="/plantsecretome/mydoc/mydoc_software01/">Software 1</a>
 
 
  
-mydocmydoc_Rgraphics_2:
-  title: "2. Base Graphics"
-  url: /plantsecretome/mydoc/mydoc_Rgraphics_2/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_2/">2. Base Graphics</a>
-
-
- 
-mydocmydoc_Rgraphics_3:
-  title: "3. Grid Graphics"
-  url: /plantsecretome/mydoc/mydoc_Rgraphics_3/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_3/">3. Grid Graphics</a>
-
-
- 
-mydocmydoc_Rgraphics_4:
-  title: "4. lattice Graphics"
-  url: /plantsecretome/mydoc/mydoc_Rgraphics_4/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_4/">4. lattice Graphics</a>
-
-
- 
-mydocmydoc_Rgraphics_5:
-  title: "5. ggplot2 Graphics"
-  url: /plantsecretome/mydoc/mydoc_Rgraphics_5/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_5/">5. ggplot2 Graphics</a>
-
-
- 
-mydocmydoc_Rgraphics_6:
-  title: "6. Specialty Graphics"
-  url: /plantsecretome/mydoc/mydoc_Rgraphics_6/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_6/">6. Specialty Graphics</a>
-
-
- 
-mydocmydoc_Rgraphics_7:
-  title: "7. Genome Graphics"
-  url: /plantsecretome/mydoc/mydoc_Rgraphics_7/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_7/">7. Genome Graphics</a>
-
-
- 
-mydocmydoc_Rgraphics_8:
-  title: "8. References"
-  url: /plantsecretome/mydoc/mydoc_Rgraphics_8/
-  link: <a href="/plantsecretome/mydoc/mydoc_Rgraphics_8/">8. References</a>
+mydocmydoc_software02:
+  title: "Software 2"
+  url: /plantsecretome/mydoc/mydoc_software02/
+  link: <a href="/plantsecretome/mydoc/mydoc_software02/">Software 2</a>
 
 
 
 
  
-mydocmydoc_systemPipeR_1:
-  title: "1. Background"
-  url: /plantsecretome/mydoc/mydoc_systemPipeR_1/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_1/">1. Background</a>
-
-
- 
-mydocmydoc_systemPipeR_2:
-  title: "2. Getting Started"
-  url: /plantsecretome/mydoc/mydoc_systemPipeR_2/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_2/">2. Getting Started</a>
-
-
- 
-mydocmydoc_systemPipeR_3:
-  title: "3. More detail"
-  url: /plantsecretome/mydoc/mydoc_systemPipeR_3/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_3/">3. More detail</a>
-
-
- 
-mydocmydoc_systemPipeR_4:
-  title: "4. Workflow demo"
-  url: /plantsecretome/mydoc/mydoc_systemPipeR_4/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_4/">4. Workflow demo</a>
-
-
- 
-mydocmydoc_systemPipeR_5:
-  title: "5. Version information"
-  url: /plantsecretome/mydoc/mydoc_systemPipeR_5/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_5/">5. Version information</a>
-
-
- 
-mydocmydoc_systemPipeR_6:
-  title: "6. References"
-  url: /plantsecretome/mydoc/mydoc_systemPipeR_6/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeR_6/">6. References</a>
+mydocmydoc_publications:
+  title: "Publications"
+  url: /plantsecretome/mydoc/mydoc_publications/
+  link: <a href="/plantsecretome/mydoc/mydoc_publications/">Publications</a>
 
 
 
 
  
-mydocmydoc_systemPipeRNAseq_01:
-  title: "1. Introduction"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_01/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_01/">1. Introduction</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_02:
-  title: "2. Sample definitions and environment settings"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_02/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_02/">2. Sample definitions and environment settings</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_03:
-  title: "3. Read preprocessing"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_03/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_03/">3. Read preprocessing</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_04:
-  title: "4. Alignments"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_04/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_04/">4. Alignments</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_05:
-  title: "5. Read distribution across genomic features"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_05/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_05/">5. Read distribution across genomic features</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_06:
-  title: "6. Read quantification per annotation range"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_06/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_06/">6. Read quantification per annotation range</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_07:
-  title: "7. Analysis of differentially expressed genes with edgeR"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_07/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_07/">7. Analysis of differentially expressed genes with edgeR</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_08:
-  title: "8. GO term enrichment analysis of DEGs"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_08/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_08/">8. GO term enrichment analysis of DEGs</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_09:
-  title: "9. Clustering and heat maps"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_09/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_09/">9. Clustering and heat maps</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_10:
-  title: "10. Render report in HTML and PDF format"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_10/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_10/">10. Render report in HTML and PDF format</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_11:
-  title: "11. Version Information"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_11/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_11/">11. Version Information</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_12:
-  title: "12. Funding"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_12/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_12/">12. Funding</a>
-
-
- 
-mydocmydoc_systemPipeRNAseq_13:
-  title: "13. References"
-  url: /plantsecretome/mydoc/mydoc_systemPipeRNAseq_13/
-  link: <a href="/plantsecretome/mydoc/mydoc_systemPipeRNAseq_13/">13. References</a>
+mydocmydoc_acknowledgement:
+  title: "Acknowledgement"
+  url: /plantsecretome/mydoc/mydoc_acknowledgement/
+  link: <a href="/plantsecretome/mydoc/mydoc_acknowledgement/">Acknowledgement</a>
 
 
 

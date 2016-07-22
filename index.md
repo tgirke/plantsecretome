@@ -16,6 +16,8 @@ control genes for defense against the pathogens, manage cell-specific processes
 during abiotic stress, or enhance the flux of nutrients towards seeds to
 improve yield). 
 
+<img title="cshlrnaseqlogo" src="mydoc/plantsecretome/logo.png"><img/>
+
 ## Background
 
 During the evolution of multicellular eukaryotes, cells specialized in
@@ -58,7 +60,6 @@ editing technologies through forums and multimedia resources.
 Oryza sativa, Arabidopsis, secretory cells, translatome, bioinformatics
 
 
-<img title="cshlrnaseqlogo" src="mydoc/CSHL_RNAseq/logo_50.png"><img/>
 
 
 

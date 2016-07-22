@@ -16,470 +16,80 @@
 
 
 {
-"title": "Introduction to R",
+"title": "Acknowledgement",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_01/",
+"url": "/plantsecretome/mydoc/mydoc_acknowledgement/",
 "summary": ""
 },
 
 
 
 {
-"title": "R Package Repositories",
+"title": "Contacts",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_02/",
+"url": "/plantsecretome/mydoc/mydoc_contacts/",
 "summary": ""
 },
 
 
 
 {
-"title": "Installation of R and Add-on Packages",
+"title": "Data",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_03/",
+"url": "/plantsecretome/mydoc/mydoc_data01/",
 "summary": ""
 },
 
 
 
 {
-"title": "Getting Around",
+"title": "Data",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_04/",
+"url": "/plantsecretome/mydoc/mydoc_data02/",
 "summary": ""
 },
 
 
 
 {
-"title": "Basic Syntax",
+"title": "Protocols",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_05/",
+"url": "/plantsecretome/mydoc/mydoc_protocols/",
 "summary": ""
 },
 
 
 
 {
-"title": "Data Types",
+"title": "Publications",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_06/",
+"url": "/plantsecretome/mydoc/mydoc_publications/",
 "summary": ""
 },
 
 
 
 {
-"title": "Data objects",
+"title": "Software",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_07/",
+"url": "/plantsecretome/mydoc/mydoc_software01/",
 "summary": ""
 },
 
 
 
 {
-"title": "Important Utilities",
+"title": "Software",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_08/",
-"summary": ""
-},
-
-
-
-{
-"title": "Operators and Calculations",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_09/",
-"summary": ""
-},
-
-
-
-{
-"title": "Reading and Writing External Data",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_10/",
-"summary": ""
-},
-
-
-
-{
-"title": "Useful R Functions",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_11/",
-"summary": ""
-},
-
-
-
-{
-"title": "SQLite Databases",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_12/",
-"summary": ""
-},
-
-
-
-{
-"title": "R Markdown",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_13/",
-"summary": ""
-},
-
-
-
-{
-"title": "Session Info",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_14/",
-"summary": ""
-},
-
-
-
-{
-"title": "References",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_15/",
-"summary": ""
-},
-
-
-
-{
-"title": "Session Info",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_16/",
-"summary": ""
-},
-
-
-
-{
-"title": "References",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rbasics_17/",
-"summary": ""
-},
-
-
-
-{
-"title": "R Graphics",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rgraphics_1/",
-"summary": ""
-},
-
-
-
-{
-"title": "Base Graphics",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rgraphics_2/",
-"summary": ""
-},
-
-
-
-{
-"title": "Grid Graphics",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rgraphics_3/",
-"summary": ""
-},
-
-
-
-{
-"title": "lattice Graphics",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rgraphics_4/",
-"summary": ""
-},
-
-
-
-{
-"title": "ggplot2 Graphics",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rgraphics_5/",
-"summary": ""
-},
-
-
-
-{
-"title": "Specialty Graphics",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rgraphics_6/",
-"summary": ""
-},
-
-
-
-{
-"title": "Genome Graphics",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rgraphics_7/",
-"summary": ""
-},
-
-
-
-{
-"title": "References",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_Rgraphics_8/",
-"summary": ""
-},
-
-
-
-{
-"title": "Requirements",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_requirements/",
-"summary": ""
-},
-
-
-
-{
-"title": "Introduction to RNA-Seq Data Analysis",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_slides/",
-"summary": ""
-},
-
-
-
-{
-"title": "RNA-Seq Workflow",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_01/",
-"summary": ""
-},
-
-
-
-{
-"title": "Sample definitions and environment settings",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_02/",
-"summary": ""
-},
-
-
-
-{
-"title": "Read preprocessing",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_03/",
-"summary": ""
-},
-
-
-
-{
-"title": "Alignments",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_04/",
-"summary": ""
-},
-
-
-
-{
-"title": "Read distribution across genomic features",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_05/",
-"summary": ""
-},
-
-
-
-{
-"title": "Read quantification per annotation range",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_06/",
-"summary": ""
-},
-
-
-
-{
-"title": "Analysis of differentially expressed genes with edgeR",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_07/",
-"summary": ""
-},
-
-
-
-{
-"title": "GO term enrichment analysis of DEGs",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_08/",
-"summary": ""
-},
-
-
-
-{
-"title": "Clustering and heat maps",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_09/",
-"summary": ""
-},
-
-
-
-{
-"title": "Render report in HTML and PDF format",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_10/",
-"summary": ""
-},
-
-
-
-{
-"title": "Version Information",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_11/",
-"summary": ""
-},
-
-
-
-{
-"title": "Funding",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_12/",
-"summary": ""
-},
-
-
-
-{
-"title": "References",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeRNAseq_13/",
-"summary": ""
-},
-
-
-
-{
-"title": "NGS Workflow Overview",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeR_1/",
-"summary": ""
-},
-
-
-
-{
-"title": "Getting Started",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeR_2/",
-"summary": ""
-},
-
-
-
-{
-"title": "More detail",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeR_3/",
-"summary": ""
-},
-
-
-
-{
-"title": "Workflow demo",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeR_4/",
-"summary": ""
-},
-
-
-
-{
-"title": "Version information",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeR_5/",
-"summary": ""
-},
-
-
-
-{
-"title": "References",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeR_6/",
-"summary": ""
-},
-
-
-
-{
-"title": "References",
-"tags": "",
-"keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_systemPipeR_7/",
+"url": "/plantsecretome/mydoc/mydoc_software02/",
 "summary": ""
 },
 
