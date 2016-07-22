@@ -6,7 +6,7 @@ topnav:
     - title: PGRP
       external_url: https://nsf.gov/funding/pgm_summ.jsp?pims_id=5338
     - title: Github Repo
-      external_url: https://github.com/tgirke/plantsectretome/tree/gh-pages
+      external_url: https://github.com/tgirke/plantsecretome/tree/gh-pages
 
 #Topnav dropdowns
 topnav_dropdowns:
