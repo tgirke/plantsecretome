@@ -24,8 +24,6 @@ bioinformatics and collaborative interdisciplinary research.
 
 ## Background
 
-Background
-
 During the evolution of multicellular eukaryotes, cells specialized in
 different tasks. In plants, some cells serve as primary producers whereas
 others fully depend on nutrient supply and are ‘receivers’.  Prominent examples
