@@ -20,7 +20,7 @@ graduate students and postdocs in cell biology, genomic-editing, genomics,
 bioinformatics and collaborative interdisciplinary research.
 
 
-<img title="frontpage" src="mydoc/plantsecretome/frontpage_small_img1.png"<img/>
+<img title="frontpage" src="mydoc/plantsecretome/frontpage_small_img1.png" width="42"><img/>
 
 ## Background
 
