@@ -20,7 +20,7 @@ graduate students and postdocs in cell biology, genomic-editing, genomics,
 bioinformatics and collaborative interdisciplinary research.
 
 
-<img title="cshlrnaseqlogo" src="mydoc/plantsecretome/logo.png"><img/>
+<img title="frontpage" src="mydoc/plantsecretome/frontpage__small_img1.png", width="42"><img/>
 
 ## Background
 
