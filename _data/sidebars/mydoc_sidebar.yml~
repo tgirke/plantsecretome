@@ -45,7 +45,7 @@ entries:
     folderitems:
 
     - title: Genome Editing
-      url: /mydoc/mydoc_genomeediting.md/
+      url: /mydoc/mydoc_genomeediting/
       output: web, pdf
 
   - title: Data

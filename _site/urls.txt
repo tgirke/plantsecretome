@@ -10,13 +10,6 @@
 
  
 
- 
-mydocmydoc_contacts:
-  title: "Contacts"
-  url: /mydoc/mydoc_contacts/
-  link: <a href="/mydoc/mydoc_contacts/">Contacts</a>
-
-
 
 
  
@@ -83,6 +76,15 @@ mydocmydoc_acknowledgement:
   title: "Acknowledgement"
   url: /mydoc/mydoc_acknowledgement/
   link: <a href="/mydoc/mydoc_acknowledgement/">Acknowledgement</a>
+
+
+
+
+ 
+mydocmydoc_contacts:
+  title: "Contacts"
+  url: /mydoc/mydoc_contacts/
+  link: <a href="/mydoc/mydoc_contacts/">Contacts</a>
 
 
 
