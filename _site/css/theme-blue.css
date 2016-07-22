@@ -14,7 +14,7 @@ h4 {color: #808080; }
 }
 
 .nav > li.active > a {
-    background-color: #26466D;
+    background-color: #4169E1;
 }
 
 .nav > li > a:hover {
@@ -38,7 +38,7 @@ a[data-toggle="tooltip"] {
 }
 
 .navbar-inverse {
-    background-color: #26466D;
+    background-color: #4169E1;
     border-color: #015CAE;
 }
 
