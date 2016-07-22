@@ -29,10 +29,10 @@ mydocmydoc_protocols:
 
 
  
-mydocmydoc_genomeediting.md:
+mydocmydoc_genomeediting:
   title: "Genome Editing"
-  url: /mydoc/mydoc_genomeediting.md/
-  link: <a href="/mydoc/mydoc_genomeediting.md/">Genome Editing</a>
+  url: /mydoc/mydoc_genomeediting/
+  link: <a href="/mydoc/mydoc_genomeediting/">Genome Editing</a>
 
 
 
