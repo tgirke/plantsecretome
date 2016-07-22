@@ -9,7 +9,7 @@
 "title": "Plant SECRETome Project Site",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/",
+"url": "//",
 "summary": ""
 },
 
@@ -19,7 +19,7 @@
 "title": "Acknowledgement",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_acknowledgement/",
+"url": "//mydoc/mydoc_acknowledgement/",
 "summary": ""
 },
 
@@ -29,7 +29,7 @@
 "title": "Contacts",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_contacts/",
+"url": "//mydoc/mydoc_contacts/",
 "summary": ""
 },
 
@@ -39,7 +39,7 @@
 "title": "Data",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_data01/",
+"url": "//mydoc/mydoc_data01/",
 "summary": ""
 },
 
@@ -49,7 +49,7 @@
 "title": "Data",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_data02/",
+"url": "//mydoc/mydoc_data02/",
 "summary": ""
 },
 
@@ -59,7 +59,7 @@
 "title": "Protocols",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_protocols/",
+"url": "//mydoc/mydoc_protocols/",
 "summary": ""
 },
 
@@ -69,7 +69,7 @@
 "title": "Publications",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_publications/",
+"url": "//mydoc/mydoc_publications/",
 "summary": ""
 },
 
@@ -79,7 +79,7 @@
 "title": "Software",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_software01/",
+"url": "//mydoc/mydoc_software01/",
 "summary": ""
 },
 
@@ -89,7 +89,7 @@
 "title": "Software",
 "tags": "",
 "keywords": "",
-"url": "/plantsecretome/mydoc/mydoc_software02/",
+"url": "//mydoc/mydoc_software02/",
 "summary": ""
 },
 
@@ -99,7 +99,7 @@
 "title": "News",
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
-"url": "/plantsecretome/news/",
+"url": "//news/",
 "summary": ""
 },
 
@@ -109,7 +109,7 @@
 "title": "News",
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
-"url": "/plantsecretome/news_archive/",
+"url": "//news_archive/",
 "summary": ""
 },
 
@@ -161,7 +161,7 @@
 "title": "Sample post",
 "tags": "newsgetting_started",
 "keywords": "",
-"url": "/plantsecretome/samplepost/",
+"url": "//samplepost/",
 "summary": "This is some summary frontmatter for my sample post."
 }
 ,
@@ -171,7 +171,7 @@
 "title": "Welcome to Jekyll!",
 "tags": "news",
 "keywords": "",
-"url": "/plantsecretome/myupdate/",
+"url": "//myupdate/",
 "summary": ""
 }
 ,
@@ -181,7 +181,7 @@
 "title": "Test post from last year",
 "tags": "news",
 "keywords": "",
-"url": "/plantsecretome/test-post-from-last-year/",
+"url": "//test-post-from-last-year/",
 "summary": ""
 }
 
