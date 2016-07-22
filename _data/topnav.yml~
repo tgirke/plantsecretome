@@ -1,0 +1,25 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: CSHL
+      external_url: https://meetings.cshl.edu/courses.aspx?course=c-plan&year=16
+    - title: Github Repo
+      external_url: https://github.com/tgirke/CSHL_RNAseq/tree/gh-pages
+
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: Resources
+      folderitems:
+        - title: CRAN
+          external_url: https://cran.r-project.org/
+        - title: Bioconductor
+          external_url: http://bioconductor.org/
+        - title: Girke Lab
+          external_url: http://girke.bioinformatics.ucr.edu/
+
+
+
