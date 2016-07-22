@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="">
 <meta name="keywords" content=" ">
-<title>Contacts  | Manual</title>
+<title>Participants  | Manual</title>
 <link rel="stylesheet" href="/css/syntax.css">
 
 
@@ -141,7 +141,7 @@
 <script>
 function SendLinkByMail(href) {
 var subject= "Manual feedback";
-var body = "I have some feedback about the Contacts page: ";
+var body = "I have some feedback about the Participants page: ";
 body += window.location.href;
 body += "";
 var uri = "mailto:thomas.girke@ucr.edu?subject=";
@@ -168,7 +168,7 @@ window.location.href = uri;
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: '/search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="Contacts">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="Participants">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
@@ -357,7 +357,7 @@ window.location.href = uri;
     <!-- Content Column -->
     <div class="col-md-9">
         <div class="post-header">
-   <h1 class="post-title-main">Contacts</h1>
+   <h1 class="post-title-main">Participants</h1>
 </div>
 
 
@@ -397,35 +397,37 @@ $('#toc').on('click', 'a', function() {
 
     
 
-  <h2 id="participants">Participants</h2>
+  <h3 id="wolf-frommer">Wolf Frommer</h3>
 
-<h3 id="wolf-frommer">Wolf Frommer</h3>
-<div class="highlighter-rouge"><pre class="highlight"><code>+ Role: PI
-+ Institution: Carnegie Institution for Science
-+ Email: wfrommer@carnegiescience.edu
-</code></pre>
-</div>
+<ul>
+  <li>Role: PI</li>
+  <li>Institution: Carnegie Institution for Science</li>
+  <li>Email: wfrommer@carnegiescience.edu</li>
+</ul>
 
 <h3 id="julia-bailey-serres">Julia Bailey-Serres</h3>
-<div class="highlighter-rouge"><pre class="highlight"><code>+ Role: Co-PI
-+ Institution: UC Riverside
-+ Email: serres@mail.ucr.edu
-</code></pre>
-</div>
+
+<ul>
+  <li>Role: Co-PI</li>
+  <li>Institution: UC Riverside</li>
+  <li>Email: serres@mail.ucr.edu</li>
+</ul>
 
 <h3 id="bing-yang">Bing Yang</h3>
-<div class="highlighter-rouge"><pre class="highlight"><code>+ Role: Co-PI
-+ Institution: Iowa State University
-+ Email: byang@iastate.edu
-</code></pre>
-</div>
+
+<ul>
+  <li>Role: Co-PI</li>
+  <li>Institution: Iowa State University</li>
+  <li>Email: byang@iastate.edu</li>
+</ul>
 
 <h3 id="thomas-girke">Thomas Girke</h3>
-<div class="highlighter-rouge"><pre class="highlight"><code>+ Role: Co-PI
-+ Institution: UC Riverside
-+ Email: thomas.girke@ucr.edu
-</code></pre>
-</div>
+
+<ul>
+  <li>Role: Co-PI</li>
+  <li>Institution: UC Riverside</li>
+  <li>Email: thomas.girke@ucr.edu</li>
+</ul>
 
 
 
