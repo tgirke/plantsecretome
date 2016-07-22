@@ -89,12 +89,11 @@ div.sidebarTitle {
 }
 
 li.sidebarTitle {
-    font-size: 300%;
-    font-weight: bold;
-    color: silver;
-    font-family: monospace;
-    text-align: center;
-    line-height: 10px;
-    margin: 20px 0px;
-    display: block;
+    margin-top:40px;
+    font-weight:normal;
+    font-size:130%;
+    color: #ED1951;
+    margin-bottom:10px;
+    margin-left: 5px;
+
 }
