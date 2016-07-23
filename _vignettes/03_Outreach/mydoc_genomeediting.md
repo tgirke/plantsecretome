@@ -3,10 +3,5 @@ title: Genome Editing
 last_updated: 21-July-16
 ---
 
-## Section 1
+This outreach component can be found [here](http://editagenome.org/).
 
-...
-
-## Section 2
-
-...
