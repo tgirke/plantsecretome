@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: PGRP
-      external_url: https://nsf.gov/funding/pgm_summ.jsp?pims_id=5338
+      external_url: http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1546879
     - title: Github Repo
       external_url: https://github.com/tgirke/plantsecretome/tree/gh-pages
 
