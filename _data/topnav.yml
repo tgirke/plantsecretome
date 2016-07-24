@@ -10,7 +10,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Resources
+    - title: Site Management
       folderitems:
         - title: Github Repo of this Site
           external_url: https://github.com/tgirke/plantsecretome/tree/gh-pages
