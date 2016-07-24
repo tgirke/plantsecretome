@@ -6,4 +6,4 @@ published: true
 
 ## Acknowledgement
 
-This project is funded by NSF award [PGRP-1546879](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1546879). zzz
+This project is funded by NSF award [PGRP-1546879](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1546879).
