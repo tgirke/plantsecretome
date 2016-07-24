@@ -5,13 +5,19 @@ topnav:
   items:
     - title: EAG
       external_url: http://editagenome.org
-    - title: Github Repo
-      external_url: https://github.com/tgirke/plantsecretome/tree/gh-pages
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
+    - title: Resources
+      folderitems:
+        - title: Github Repo of this Site
+          external_url: https://github.com/tgirke/plantsecretome/tree/gh-pages
+        - title: Jekyll Doc Theme
+          external_url: http://idratherbewriting.com/documentation-theme-jekyll/
+        - title: GitHub
+          external_url: https://guides.github.com/activities/hello-world/
     - title: Participants
       folderitems:
         - title: Wolf Frommer (Carnegie Institution for Science)
