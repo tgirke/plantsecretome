@@ -26,7 +26,7 @@ topnav_dropdowns:
           external_url: https://github.com/tgirke/plantsecretome/tree/gh-pages
         - title: Jekyll Doc Theme
           external_url: http://idratherbewriting.com/documentation-theme-jekyll/
-        - title: GitHub
+        - title: GitHub Basics
           external_url: https://guides.github.com/activities/hello-world/
         - title: Prose
           external_url: http://prose.io/#about
