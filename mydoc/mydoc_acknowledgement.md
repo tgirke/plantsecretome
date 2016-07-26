@@ -7,5 +7,5 @@ last_updated: 21-July-16
 
 This project is funded by NSF award [PGRP-1546879](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1546879).
 
-<img title="nsflogo" src="plantsecretome/NSF_Logo.png"><img/>
+<img title="nsflogo" src="../plantsecretome/NSF_Logo.png"><img/>
 
