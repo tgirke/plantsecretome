@@ -8,5 +8,5 @@ published: true
 
 This project is funded by NSF award [PGRP-1810468](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1810468).
 <p align="center">
-<img title="nsflogo" src="../plantsecretome/NSF_Logo.png" width="200"></img>
+<img title="nsflogo" src="../plantsecretome/NSF_Logo.png" width="200"/>
 </p>
