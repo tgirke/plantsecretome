@@ -17,7 +17,7 @@ topnav_dropdowns:
         - title: Julia Bailey-Serres (UC Riverside)
           external_url: http://cepceb.ucr.edu/people/bailey-serres.html
         - title: Bing Yang (Iowa State Univeristy)
-          external_url: http://www.gdcb.iastate.edu/faculty-and-research/faculty/bing-yang/
+          external_url: https://www.gdcb.iastate.edu/people/bing-yang
         - title: Thomas Girke (UC Riverside)
           external_url: http://girke.bioinformatics.ucr.edu/
     - title: Site Management
