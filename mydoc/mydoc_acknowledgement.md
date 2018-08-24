@@ -10,7 +10,6 @@ This project is funded by NSF award [PGRP-1810468](http://www.nsf.gov/awardsearc
 <p align="center">
 <img title="nsflogo" src="../plantsecretome/NSF_Logo.png" width="20"/>
 </p>
-
 <p align="center">
 <img title="rice" src="../plantsecretome/rice.png" width="20"/>
 </p>
