@@ -52,9 +52,7 @@ mRNA translation using TRAP (Translating Ribosome Affinity Purification) that
 enables profiling of mRNAs and non-coding RNAs associated with ribosomes
 (translatome) and CRISPR/Cas9-aided genomic-editing.
 
-## Additional Notes
 
-Test test test 
 
 ## Expected Deliverables
 
