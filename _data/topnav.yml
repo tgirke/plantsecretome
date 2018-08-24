@@ -28,6 +28,8 @@ topnav_dropdowns:
           external_url: http://idratherbewriting.com/documentation-theme-jekyll/
         - title: GitHub Basics
           external_url: https://guides.github.com/activities/hello-world/
+        - title: Markdown Syntax
+          external_url: https://guides.github.com/features/mastering-markdown/
         - title: Prose
           external_url: http://prose.io/#about
 
