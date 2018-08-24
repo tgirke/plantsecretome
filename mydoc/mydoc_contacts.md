@@ -4,12 +4,19 @@ keywords:
 last_updated: Fri Jul  1 16:14:54 2016
 ---
 
-### Wolf Frommer
+### Bing Yang
 
 + Role: PI
-+ Institution: Carnegie Institution for Science
++ Institution: Iowa State University
++ Email: byang@iastate.edu
++ [Home page](https://www.gdcb.iastate.edu/people/bing-yang)
+
+### Wolf Frommer
+
++ Role: Co-PI (former PI)
++ Institution: Heinrich-Heine-Universität Düsseldorf (HHU)
 + Email: wfrommer@carnegiescience.edu
-+ [Home page](https://dpb.carnegiescience.edu/labs/frommer-lab)
++ [Home page](http://www.molecular-physiology.hhu.de/en.html)
 
 ### Julia Bailey-Serres
 
@@ -17,13 +24,6 @@ last_updated: Fri Jul  1 16:14:54 2016
 + Institution: UC Riverside
 + Email: serres@mail.ucr.edu
 + [Home page](http://cepceb.ucr.edu/people/bailey-serres.html)
-
-### Bing Yang
-
-+ Role: Co-PI
-+ Institution: Iowa State University
-+ Email: byang@iastate.edu
-+ [Home page](http://www.gdcb.iastate.edu/faculty-and-research/faculty/bing-yang)
 
 ### Thomas Girke
 
