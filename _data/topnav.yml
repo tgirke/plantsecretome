@@ -12,8 +12,8 @@ topnav_dropdowns:
   folders:
     - title: Participants
       folderitems:
-        - title: Wolf Frommer (Carnegie Institution for Science)
-          external_url: https://dpb.carnegiescience.edu/labs/frommer-lab 
+        - title: Wolf Frommer (HHU)
+          external_url: http://www.molecular-physiology.hhu.de/en.html 
         - title: Julia Bailey-Serres (UC Riverside)
           external_url: http://cepceb.ucr.edu/people/bailey-serres.html
         - title: Bing Yang (Iowa State Univeristy)
