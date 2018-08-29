@@ -15,7 +15,7 @@ last_updated: Fri Jul  1 16:14:54 2016
 
 + Role: Co-PI (former PI)
 + Institution: Heinrich-Heine-Universität Düsseldorf (HHU)
-+ Email: wfrommer@carnegiescience.edu
++ Email: frommew@hhu.de
 + [Home page](http://www.molecular-physiology.hhu.de/en.html)
 
 ### Julia Bailey-Serres
