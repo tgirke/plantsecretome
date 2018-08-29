@@ -8,7 +8,7 @@ last_updated: 21-July-16
 ### Experimental
 
 + [TRAP Protocol](https://drive.google.com/open?id=1wI93tdWrVaPx-pkjfPbwDaOhNFLIAetA)
-+ [mRNA Prep post TRAP] (https://drive.google.com/file/d/19NqoIz9M740VplseSqnz9ujECNUEXbUo/view?usp=sharing)
++ [mRNA Prep post TRAP](https://drive.google.com/file/d/19NqoIz9M740VplseSqnz9ujECNUEXbUo/view?usp=sharing)
 
 ### Analysis Protocols
 
