@@ -8,9 +8,6 @@ last_updated: 21-July-16
 ### Experimental
 
 + TRAP Protocol
-<p align="center">
-<img title="TRAP" src="../plantsecretome/”TRAP”.pdf" width="20"/>
-</p>
 
 
 ### Analysis Protocols
