@@ -9,6 +9,7 @@ last_updated: 21-July-16
 
 + [TRAP Protocol](https://drive.google.com/open?id=1wI93tdWrVaPx-pkjfPbwDaOhNFLIAetA)
 + [mRNA Prep post TRAP](https://drive.google.com/file/d/19NqoIz9M740VplseSqnz9ujECNUEXbUo/view?usp=sharing)
++ [BRAD seq and library creation](https://drive.google.com/file/d/11cW6JzJLWUBxB0cfRFwELkZ5lmDoAqyC/view?usp=sharing)
 
 ### Analysis Protocols
 
