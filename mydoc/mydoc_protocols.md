@@ -7,7 +7,7 @@ last_updated: 21-July-16
 
 ### Experimental
 
-+ Coming soon
++ TRAP Protocol
 
 ### Analysis Protocols
 
