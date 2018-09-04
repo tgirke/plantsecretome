@@ -12,7 +12,7 @@ Below please find some images of our outreach and training of future young scien
 
 
 
-<p align="left">
+<p align="center">
 <img title="MPSS" src="..
       plantsecretome/mydoc/plantsecretome/MPSS.png
     " width="15"/>
