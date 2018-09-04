@@ -6,7 +6,7 @@ last_updated: 21-July-16
 
 We are training high school students, high school teachers, community  and 4-yr college undergraduates, graduate students, and postdocs in cell biology, genomic-editing, genomics, bioinformatics, and collaborative interdisciplinary research.
 
-Below please find some images of our outreach and training of futuere young scientists.
+Below please find some images of our outreach and training of future young scientists.
 
 
 
