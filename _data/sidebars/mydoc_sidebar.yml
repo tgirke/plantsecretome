@@ -43,9 +43,9 @@ entries:
     - title: Genome Editing
       url: /mydoc/mydoc_genomeediting/
       output: web, pdf
-    
-      - title: Student Training
-      url: /mydoc/mydoc_studenttraining/
+  
+      - title: Genome Editing
+      url: /mydoc/mydoc_genomeediting/
       output: web, pdf
       
 
