@@ -7,5 +7,7 @@ Below please find some images of our outreach and training of futuere young scie
 
 
 <p align="center">
-<img title="Matt and Susan" src="../plantsecretome/Matt and Susan.png" width="20"/>
+<img title="Matt and Susan" src="..
+      plantsecretome/mydoc/plantsecretome/Matt and Susan.png
+    " width="20"/>
 </p>
