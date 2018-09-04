@@ -3,4 +3,4 @@ title: Genome Editing
 last_updated: 21-July-16
 ---
 
-This outreach component can be found
+Below please find some images of our outreach and training of futuere young scientists.
