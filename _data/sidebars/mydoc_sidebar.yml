@@ -46,7 +46,7 @@ entries:
     
       - title: Student Training
       url: /mydoc/mydoc_studenttraining/
-      output: web
+      output: web, pdf
       
 
   - title: Data
