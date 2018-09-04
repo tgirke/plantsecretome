@@ -10,11 +10,9 @@ Below please find some images of our outreach and training of future young scien
 
 
 
-
+High school student Susan Wu, won 3nd Place in Life Sciences at the Intel International Science Fair in Pittsburgh, PA in May 2018 with her work on rice transporters under supervision of postdoc Matt Prior. 
 
 <p align="center">
-<img title="MPSS" src="..
-      plantsecretome/mydoc/plantsecretome/MPSS.png
-    " width="15"/>
+<img title="MPSS" src="../plantsecretome/MPSS.png" width="20"/>
 </p>
-High school student Susan Wu, won 3nd Place in Life Sciences at the Intel International Science Fair in Pittsburgh, PA in May 2018 with her work on rice transporters under supervision of postdoc Matt Prior. 
+
