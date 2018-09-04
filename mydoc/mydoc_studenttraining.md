@@ -16,3 +16,11 @@ High school student Susan Wu, won 3nd Place in Life Sciences at the Intel Intern
 <img title="MPSS" src="../plantsecretome/MPSS.png" width="20"/>
 </p>
 
+
+
+
+UCR undergraduate Felicia Ortiz working with Secretome rice; she is assisting with the verificaiton of each individual line by PCR analysis and confocal microscopy.
+
+<p align="center">
+<img title="Felicia" src="../plantsecretome/Felicia.png" width="20"/>
+</p>
