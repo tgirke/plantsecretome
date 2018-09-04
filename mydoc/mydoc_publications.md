@@ -20,6 +20,8 @@ last_updated: 21-July-16
 
 1. Backman TW, Girke T (2017) systemPipeR: NGS workflow and report generation environment. Poster presented at ISMB 2017 in Prague. Download [here](https://drive.google.com/open?id=0B-lLYVUOliJFV1RGMkcyblBjekk).
 
+2. Yang B, Bailey-Serres J, Girke T, Frommer, WB. Plant SECRETome Project. View [here](https://drive.google.com/open?id=1l38SDusD-6jtDxr-FD44Kv943NZ6TZaK). 
+
 ## Publications related to this project
 
 ...
